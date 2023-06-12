@@ -10,9 +10,9 @@ The application uses environment variables to configure its behavior. The follow
 
 - `DISCORD_PROXY_BOT_TOKEN`: The authentication token of the Discord bot. Obtain the bot token from the Discord developer control panel.
 
-- `DISCORD_PROXY_FLOWS_URL`: The URL of FLows that the application needs to access. Make sure to provide a valid URL.
+- `DISCORD_PROXY_FLOWS_URL`: The URL of Flows that the application needs to access. Make sure to provide a valid URL.
 
-- `DISCORD_PROXY_CHANNEL_UUID`: The UUID of the Discord channel in FLows.
+- `DISCORD_PROXY_CHANNEL_UUID`: The UUID of the Discord channel in Flows.
 
 Make sure to set these environment variables before running the application.
 
