@@ -1,6 +1,6 @@
 # Discord Proxy Flows
 
-This is an application that interacts with Discord and Flows, acting as a proxy between them to allow receiving messages and media files sent between a Discord bot and FLows.
+This is an application that interacts with Discord and Flows, acting as a proxy between them to allow receiving messages and media files sent between a Discord bot and Flows.
 
 ## Configuration
 
@@ -24,4 +24,4 @@ Make sure you have Go installed on your machine. You can run the application usi
 go run cmd/main.go
 ```
 
-This will start the application, and it will begin to receive messages and media files sent by the bot and the Discord channel in FLows.
+This will start the application, and it will begin to receive messages and media files sent by the bot and the Discord channel in Flows.
